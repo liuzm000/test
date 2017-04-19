@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/codehelper/!svn/ver/1109/android/http/src/org/library/http
+END
+HttpAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/codehelper/!svn/ver/1447/android/http/src/org/library/http/HttpAsyncTask.java
+END
+HttpGetAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/codehelper/!svn/ver/1447/android/http/src/org/library/http/HttpGetAsyncTask.java
+END
+CustomMultipartEntityV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/codehelper/!svn/ver/869/android/http/src/org/library/http/CustomMultipartEntityV2.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/codehelper/!svn/ver/854/android/http/src/org/library/http/Base64.java
+END
+HttpAsyncTaskUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/codehelper/!svn/ver/877/android/http/src/org/library/http/HttpAsyncTaskUpload.java
+END
+FileToZip.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/codehelper/!svn/ver/854/android/http/src/org/library/http/FileToZip.java
+END
+HttpAsyncTaskUpload2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/codehelper/!svn/ver/868/android/http/src/org/library/http/HttpAsyncTaskUpload2.java
+END
+HttpDownloadAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/codehelper/!svn/ver/1447/android/http/src/org/library/http/HttpDownloadAsyncTask.java
+END
+CustomMultiPartEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/codehelper/!svn/ver/869/android/http/src/org/library/http/CustomMultiPartEntity.java
+END
+DWRHttpAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/codehelper/!svn/ver/854/android/http/src/org/library/http/DWRHttpAsyncTask.java
+END

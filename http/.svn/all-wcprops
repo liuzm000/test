@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/codehelper/!svn/ver/1110/android/http
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/codehelper/!svn/ver/161/android/http/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/codehelper/!svn/ver/161/android/http/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/codehelper/!svn/ver/161/android/http/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/codehelper/!svn/ver/161/android/http/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/codehelper/!svn/ver/161/android/http/AndroidManifest.xml
+END
